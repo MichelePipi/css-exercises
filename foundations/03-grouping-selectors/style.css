@@ -1,0 +1,13 @@
+.adjust-font-styles {
+    font-size: 28px;
+    font-style: Helvetica, 'Times New Roman', sans-serif;
+}
+
+#black-background-white-text {
+    background-color: #000000;
+    color: hsl(0, 0%, 100%)
+}
+
+#yellow-background {
+    background-color: hsl(59, 100%, 53%)
+}
